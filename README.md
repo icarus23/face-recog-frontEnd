@@ -1,2 +1,2 @@
 # face-recog-frontEnd
-Face Recognition Webapp FrontEnd
+Face Recognition Webapp FrontEnd.
